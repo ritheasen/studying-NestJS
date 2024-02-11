@@ -1,0 +1,32 @@
+https://www.youtube.com/watch?v=8_X0nSrzrCw
+npm i @nestjs/cli
+nest new [name]
+
+nest g module [name]
+nest g controller [name]
+nest g service [name]
+
+nest g resource employees
+
+PartialType
+npm i @nestjs/mapped-types -D
+
+VALIDATOR of DTO
+npm i class-validator class-transformer
+
+To limit request
+npm i @nestjs/throttler
+
+Swagger
+npm install @nestjs/swagger
+
+
+
+npm i prisma -D
+npx prisma init
+
+npx prisma migrate dev --name init
+
+npx prisma generate
+
+npx prisma migrate dev --name [name]
