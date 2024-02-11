@@ -31,6 +31,10 @@
 ```bash
 $ npm install
 ```
+## .env
+// provided by neon.tech
+DATABASE_URL=
+DIRECT_URL=
 
 ## Running the app
 
